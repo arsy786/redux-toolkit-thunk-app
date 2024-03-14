@@ -1,34 +1,39 @@
 # Redux Toolkit Thunk App
 
-This project is a sample application that was created following the tutorial video "Redux Toolkit with Redux Thunk | Build a Photo Gallery App" by [EdRoh] on YouTube. The aim of this project is to demonstrate how to use Redux Toolkit and Thunk middleware in a React application.
-
-Link to the tutorial video: https://www.youtube.com/watch?v=lH-yFJZF0ts
+This project is a sample app that was created following the tutorial: [Redux Toolkit with Redux Thunk | Build a Photo Gallery App (YouTube/EdRoh)](https://www.youtube.com/watch?v=lH-yFJZF0ts). The aim of this project is to demonstrate how to use Redux Toolkit and Thunk middleware in a React application.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+### Prerequisites
 
-## Prerequisites
+- Node.js
 
-Before running this project, you need to have the following software installed:
+### Setup
 
-    Node.js
-    npm
+1.  Open your terminal or command prompt.
 
-## Installation
+2.  Clone the repository using Git:
 
-To install the project dependencies, run the following command in the project directory:
+    ```bash
+    git clone https://github.com/arsy786/redux-toolkit-thunk-app.git
+    ```
 
-```bash
-npm install
-```
+3.  Navigate to the cloned repository's root directory:
 
-## Running the app
+    ```bash
+    cd redux-toolkit-thunk-app
+    ```
 
-To start the app, run the following command:
+4.  Install NPM packages:
 
-```bash
-npm start
-```
+    ```bash
+    npm install
+    ```
 
-The app should now be running on http://localhost:3000.
+5.  Start the development server:
+
+    ```bash
+    npm start
+    ```
+
+This runs the app in the development mode. Open http://localhost:3000 to view it in your browser. The page will reload when you make changes.
